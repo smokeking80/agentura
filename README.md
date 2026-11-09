@@ -48,7 +48,7 @@ Bez ověřené odesílací domény a těchto proměnných formulář e-maily neo
 - Nahraďte ilustrační fotografie vlastními nebo licenčně vhodnými fotografiemi.
 - Doplňte přesné informace o pracovních místech, mzdách, směnách a požadavcích.
 - Nahraďte telefon `+420 000 000 000` skutečným číslem, až bude k dispozici (zatím se nezobrazuje jako kontaktní údaj).
-- Doplňte úplné informace o správci do stránky `/ochrana-osobnich-udaju` a ověřte právní text pro skutečný náborový proces. Současná stránka je pouze pracovní šablona, nikoli právní posouzení.
+- Firemní název, sídlo a IČO jsou doplněny do patičky a stránky ochrany osobních údajů. Před ostrým provozem doplňte a ověřte právní základ, dobu uchování a případné předávání údajů zaměstnavatelům; text je pracovní návrh, nikoli právní posouzení.
 - Před ostrým provozem doplňte vhodnou ochranu formuláře proti spamu / rate limiting a ověřte doručování e-mailů.
 
 ## Struktura
