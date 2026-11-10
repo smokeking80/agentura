@@ -21,13 +21,13 @@ export type Job = {
 export const jobs: Job[] = [
   {
     slug: 'prace-ve-slevarne', title: 'Pracovník ve slévárně', category: 'Výroba',
-    location: 'Česká republika', salary: 'Dle konkrétní pozice', employment: 'Dle dohody', shifts: 'Bude upřesněno',
+    location: 'Olomouc', salary: 'Dle konkrétní pozice', employment: 'Dle dohody', shifts: 'Bude upřesněno',
     image: 'https://images.unsplash.com/photo-1567789884554-0b844b597180?auto=format&fit=crop&w=1200&q=85', imageAlt: 'Průmyslový provoz a výroba',
     excerpt: 'Pracovní příležitost ve slévárenském provozu.',
     description: 'Hledáme zájemce o práci ve slévárenském provozu. Konkrétní náplň práce a podmínky vám sdělíme při kontaktu.',
     duties: ['Práce ve slévárenském provozu', 'Plnění pracovních úkolů dle zařazení', 'Dodržování bezpečnostních pravidel'],
     requirements: ['Spolehlivost a zodpovědný přístup', 'Ochota pracovat podle požadavků provozu'],
-    benefits: ['Informace o podmínkách při osobním jednání'], active: true, badge: 'Aktuální nabídka'
+    benefits: ['Ubytování zajištěno'], active: true, badge: 'Aktuální nabídka'
   },
   {
     slug: 'prace-na-stavbe', title: 'Pracovník na stavbě', category: 'Stavebnictví',
